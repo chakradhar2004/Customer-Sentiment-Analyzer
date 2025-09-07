@@ -155,14 +155,6 @@ Get recent feedbacks (last 50).
   { "id": 2, "text": "The delivery was late", "sentiment": "negative", "polarity": -0.6 }
 ]
 ```
-
----
-
-## 📸 Screenshots (to add after running)
-- Dashboard Home  
-- Pie Chart of Sentiments  
-- Recent Feedback List  
-
 ---
 
 ## 🏆 Conclusion
