@@ -2,7 +2,7 @@
 
 A full-stack project that analyzes customer feedback using **Natural Language Processing (NLP)**, stores results in **MySQL**, and visualizes sentiment distribution on a **React dashboard**.
 
-![App Screenshot](screenshot.jpg)
+![App Screenshot](Screenshot.jpg)
 ---
 
 ## 🚀 Features
